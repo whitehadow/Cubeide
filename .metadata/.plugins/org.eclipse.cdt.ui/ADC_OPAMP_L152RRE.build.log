@@ -1,0 +1,10 @@
+16:01:54 **** Incremental Build of configuration Debug for project ADC_OPAMP_L152RRE ****
+make -j8 all 
+arm-none-eabi-size   ADC_OPAMP_L152RRE.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27320	    484	   1748	  29552	   7370	ADC_OPAMP_L152RRE.elf
+Finished building: default.size.stdout
+ 
+
+16:01:54 Build Finished. 0 errors, 0 warnings. (took 322ms)
+
