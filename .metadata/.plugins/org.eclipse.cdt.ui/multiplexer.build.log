@@ -1,0 +1,10 @@
+14:16:40 **** Incremental Build of configuration Debug for project multiplexer ****
+make -j8 all 
+arm-none-eabi-size   multiplexer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27764	    476	   2076	  30316	   766c	multiplexer.elf
+Finished building: default.size.stdout
+ 
+
+14:16:41 Build Finished. 0 errors, 0 warnings. (took 879ms)
+

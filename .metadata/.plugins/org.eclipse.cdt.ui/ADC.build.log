@@ -1,0 +1,10 @@
+14:16:26 **** Incremental Build of configuration Debug for project ADC ****
+make -j8 all 
+arm-none-eabi-size   ADC.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26292	    476	   2060	  28828	   709c	ADC.elf
+Finished building: default.size.stdout
+ 
+
+14:16:27 Build Finished. 0 errors, 0 warnings. (took 1s.339ms)
+
